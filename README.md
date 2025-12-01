@@ -1,4 +1,5 @@
-![i](./src/main/resources/img/logo.png)
+![i](/assets/banner.png)
+
 ![](https://img.shields.io/badge/minecraft-服务器插件-red.svg)&emsp;
 ![](https://img.shields.io/badge/📩-tcyeee@outlook.com-green.svg)&emsp;
 ![](https://img.shields.io/badge/QQ群-1054143983-green.svg)&emsp;
